@@ -1,7 +1,3 @@
----
-description: 这个章节主要描述了实现iFace基础框架需要的基本接口，后端必须提供这些接口才能让iFace正常运行
----
-
 # API文档
 
 {% api-method method="post" host="" path="/版本号/模块/接口名\[query\|/params\]" %}

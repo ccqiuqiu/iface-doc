@@ -1,7 +1,3 @@
----
-description: Loading主要是在系统处理耗时操作的时候，为了降低用户焦虑提升体验的一般方式，iFace的loading主要用在异步接口请求的时候。
----
-
 # Loading
 
 ## 显示形式

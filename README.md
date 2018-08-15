@@ -18,6 +18,5 @@ iFace旨在开发一套针对PC端管理后台的通用解决方案，包含管�
 
 本项目代码地址 [iFace](https://github.com/ccqiuqiu/iface)
 
-欢迎[issue](https://github.com/ccqiuqiu/iface/issues)和[pr](https://github.com/ccqiuqiu/iface/pulls)  
-
+欢迎[issue](https://github.com/ccqiuqiu/iface/issues)和[pr](https://github.com/ccqiuqiu/iface/pulls)
 

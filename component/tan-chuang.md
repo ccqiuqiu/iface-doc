@@ -1,7 +1,3 @@
----
-description: iFace的弹窗是在elementUI的弹窗组件的基础上封装的，增加了弹出任意组件和JSX的支持。
----
-
 # 弹窗
 
 ## 使用方法
