@@ -29,6 +29,6 @@
   * [权限](service/quan-xian.md)
   * [动态CRUD](service/crud.md)
 * [API文档](api.md)
-* [更新日志](geng-xin-ri-zhi.md)
+* [更新日志](log.md)
 * [常见问题](untitled.md)
 
